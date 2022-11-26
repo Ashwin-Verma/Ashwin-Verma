@@ -24,10 +24,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ashwin-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ashwin-verma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashwin-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwin-verma" height="30" width="40" /></a>
-<a href="https://fb.com/ashwin verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashwin verma" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ashwin.verma.3979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashwin verma" height="30" width="40" /></a>
 <a href="https://instagram.com/ashwin_verma.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashwin_verma.99" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/avh technology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avh technology" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCB_7gJw3aK1pk0yWxOj98KQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avh technology" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
