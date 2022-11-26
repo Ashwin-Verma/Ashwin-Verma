@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwin-verma&show_icons=true&locale=en&layout=compact" alt="ashwin-verma" /></p>
 
-<p><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></p>
+<p><img align="left" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.codecademy.com/resources/blog/content/images/2021/11/6-Most-Popular-Programming-Languages-for-Game-Development-1.png)"></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwin-verma&show_icons=true&locale=en" alt="ashwin-verma" /></p>
 
