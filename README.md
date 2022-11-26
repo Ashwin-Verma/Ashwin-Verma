@@ -35,6 +35,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwin-verma&show_icons=true&locale=en&layout=compact" alt="ashwin-verma" /></p>
 
+<img align="left" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codecademy.com%2Fresources%2Fblog%2Fprogramming-languages-for-game-development%2F&psig=AOvVaw0Y_llqctFmncF_1gUPzjHA&ust=1669557694907000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPj95ZyBzPsCFQAAAAAdAAAAABBD)">
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwin-verma&show_icons=true&locale=en" alt="ashwin-verma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin-verma&" alt="ashwin-verma" /></p>
