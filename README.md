@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [www.supotronix.com](www.supotronix.com)
 
-- 💬 Ask me about **HTML, CSS & JS and Python, Django**
+- 💬 Ask me about **Web DevOps**
 
 - 📫 How to reach me **vashwin97@gmail.com**
 
