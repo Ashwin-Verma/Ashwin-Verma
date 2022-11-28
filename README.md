@@ -1,3 +1,4 @@
+![logo](https://github.com/Ashwin-Verma/Ashwin-Verma/blob/main/github%20ezgif.com-gif-maker.gif)
 <h1 align="center">Hi 👋, I'm Ashwin Verma</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
