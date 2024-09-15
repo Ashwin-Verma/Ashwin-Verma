@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Web Development](#)
 
-- 🌱 If you need any services untiedly to connect me
+- 🌱 If you need any enquiry untiedly to connect me
 
 - 👯 I’m looking to collaborate on [supotronix](www.supotronix.com)
 
